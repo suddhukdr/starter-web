@@ -8,6 +8,7 @@ This example is to show different parts of gitrepo and various
 commands
 
 ## Purpose
+As stated above, the main purpose is to provide simple example
 
 ## Deployment
 
