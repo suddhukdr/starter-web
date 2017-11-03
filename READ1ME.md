@@ -16,7 +16,7 @@ local file system.
 This is added now
 
 ## How to Contribute
-
+Please fork this repo and then issue Pull requests for review.
 
 ### Copyright
 2017 Git.Training
