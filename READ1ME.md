@@ -5,11 +5,14 @@ Git and Github together.
 
 ## Introduction
 This example is to show different parts of gitrepo and various
-commands
+commands.
 
 ## Purpose
-As stated above, the main purpose is to provide simple example
+As stated above, the main purpose is to provide simple example.
 
 ## Deployment
+This is a simple web project, deployment can be on any web server or even
+local file system.
+This is added now
 
 ## How to Contribute
