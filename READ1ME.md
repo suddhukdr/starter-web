@@ -20,4 +20,4 @@ This is added now
 Please fork this repo and then issue Pull requests for review.
 
 ### Copyright
-2017 Git.Training
+2017 Git.Training. ALL RIGHTS RESERVED
